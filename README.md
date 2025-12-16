@@ -60,13 +60,3 @@ LEXICON is a **semantic search engine** that retrieves relevant text passages us
 ├── app/              # Streamlit demo
 ├── results/          # Metrics and visualizations
 └── README.md
-
-
-
-
-
-
-
-
-├── results/          # Metrics and visualizations
-└── README.md
