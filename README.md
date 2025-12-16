@@ -55,8 +55,7 @@ LEXICON is a **semantic search engine** that retrieves relevant text passages us
 
 ```text
 .
-├── notebooks/        # Experiments and evaluation
-├── src/              # Retrieval and re-ranking logic
-├── app/              # Streamlit demo
-├── results/          # Metrics and visualizations
+├── Project/        
+├── Webpage/      
+├── Report/              
 └── README.md
