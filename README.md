@@ -62,12 +62,11 @@ LEXICON is a **semantic search engine** that retrieves relevant text passages us
 └── README.md
 
 
-## ▶️ How to Run
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
 
 
-## ▶️ How to Run
-pip install -r requirements.txt
-streamlit run app/streamlit_app.py
 
+
+
+
+├── results/          # Metrics and visualizations
+└── README.md
